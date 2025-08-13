@@ -1,0 +1,24 @@
+ipykernel
+unstructured
+unstructured-inference
+unstructured_pytesseract
+langchain-unstructured
+langchain-community
+pdf2image
+dotenv
+tesseract
+# tesseract-ocr
+pillow
+# torch==2.4.0+cu118
+# torchvision==0.19.0+cu118
+# torchaudio==2.4.0+cu118
+# --extra-index-url https://download.pytorch.org/whl/cu118
+# detectron2 @ https://dl.fbaipublicfiles.com/detectron2/wheels/cu118/torch2.4/detectron2-0.6+cu118-cp312-cp312-win_amd64.whl
+pytesseract==0.3.13
+pdfminer.six==20250506
+poppler-utils
+pi-heif
+ipywidgets
+hf_xet
+opensearch-dsl
+nltk
