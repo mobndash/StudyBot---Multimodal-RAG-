@@ -212,3 +212,11 @@ extracted_data/
 figures/
 
 .env
+
+extracted_data/
+figures/
+outputs/*.json
+whoosh_index/
+E:/Generative AI Projects/StudyBot---Multimodal-RAG-/extracted_data/
+E:/Generative AI Projects/StudyBot---Multimodal-RAG-/figures/
+E:/Generative AI Projects/StudyBot---Multimodal-RAG-/outputs
